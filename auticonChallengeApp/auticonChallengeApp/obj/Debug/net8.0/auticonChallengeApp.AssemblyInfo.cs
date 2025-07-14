@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("auticonChallengeApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+522cce94702546010469828c6ddd18662c08ee99")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cfd1e97cca526de9b6072733b7cfcb29fd8bf716")]
 [assembly: System.Reflection.AssemblyProductAttribute("auticonChallengeApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("auticonChallengeApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
