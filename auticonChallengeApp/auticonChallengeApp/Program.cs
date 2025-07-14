@@ -106,26 +106,26 @@
 
                 // wrap up
                 // print out original word list (corrupted word list with symbols removed)
-                Console.WriteLine("\nOriginal Word List:");
+                Console.WriteLine("\nOriginal Word List:\n");
                 foreach (string word in originalWords) {
                     Console.WriteLine(word);
                 }
                 Console.WriteLine("\n\n");
 
                 // print out words that have been corrupted
-                Console.WriteLine("\nWords that have been modified (" + modifiedWords.Count + ") modified");
+                Console.WriteLine("\nWords that have been modified (" + modifiedWords.Count + ") modified:\n");
                 foreach (string word in modifiedWords) {
                     Console.WriteLine(word);
                 }
 
                 // print out corruption pattern identified (wrong currently)
-                Console.WriteLine("\nCorruption Pattern:");
+                Console.WriteLine("\nCorruption Pattern:\n");
                 foreach (var kvp in corruptionPattern) {
                     Console.WriteLine($"{kvp.Key} -> {kvp.Key}{kvp.Value}");
                 }
 
                 // print out reconstructed corrupted word list (wrong currently)
-                Console.WriteLine("\nReconstructed corrupted word list");
+                Console.WriteLine("\nReconstructed corrupted word list\n");
                 foreach (string word in reconstructedCorruptedWords) {
                     Console.WriteLine(word);
                 }
