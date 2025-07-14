@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\auticon-challenge\auticonChallengeApp\auticonChallengeApp\bin\Debug\net8.0\auticonChallengeApp.exe
+C:\Users\PC\source\repos\auticon-challenge\auticonChallengeApp\auticonChallengeApp\bin\Debug\net8.0\auticonChallengeApp.deps.json
+C:\Users\PC\source\repos\auticon-challenge\auticonChallengeApp\auticonChallengeApp\bin\Debug\net8.0\auticonChallengeApp.runtimeconfig.json
+C:\Users\PC\source\repos\auticon-challenge\auticonChallengeApp\auticonChallengeApp\bin\Debug\net8.0\auticonChallengeApp.dll
+C:\Users\PC\source\repos\auticon-challenge\auticonChallengeApp\auticonChallengeApp\bin\Debug\net8.0\auticonChallengeApp.pdb
+C:\Users\PC\source\repos\auticon-challenge\auticonChallengeApp\auticonChallengeApp\obj\Debug\net8.0\auticonChallengeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\auticon-challenge\auticonChallengeApp\auticonChallengeApp\obj\Debug\net8.0\auticonChallengeApp.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\auticon-challenge\auticonChallengeApp\auticonChallengeApp\obj\Debug\net8.0\auticonChallengeApp.AssemblyInfo.cs
+C:\Users\PC\source\repos\auticon-challenge\auticonChallengeApp\auticonChallengeApp\obj\Debug\net8.0\auticonChallengeApp.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\auticon-challenge\auticonChallengeApp\auticonChallengeApp\obj\Debug\net8.0\auticonChallengeApp.sourcelink.json
+C:\Users\PC\source\repos\auticon-challenge\auticonChallengeApp\auticonChallengeApp\obj\Debug\net8.0\auticonChallengeApp.dll
+C:\Users\PC\source\repos\auticon-challenge\auticonChallengeApp\auticonChallengeApp\obj\Debug\net8.0\refint\auticonChallengeApp.dll
+C:\Users\PC\source\repos\auticon-challenge\auticonChallengeApp\auticonChallengeApp\obj\Debug\net8.0\auticonChallengeApp.pdb
+C:\Users\PC\source\repos\auticon-challenge\auticonChallengeApp\auticonChallengeApp\obj\Debug\net8.0\auticonChallengeApp.genruntimeconfig.cache
+C:\Users\PC\source\repos\auticon-challenge\auticonChallengeApp\auticonChallengeApp\obj\Debug\net8.0\ref\auticonChallengeApp.dll
